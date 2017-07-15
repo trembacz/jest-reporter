@@ -1,0 +1,9 @@
+node_modules
+mplayer
+coverage
+.idea
+.vscode
+test-report.xml
+*.log
+*.exe
+*.lock
