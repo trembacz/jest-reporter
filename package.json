@@ -13,8 +13,7 @@
 		"sounds",
 		"ascii",
 		"text",
-		"test",
-		"tests"
+		"test"
 	],
 	"repository": {
 		"type": "git",
