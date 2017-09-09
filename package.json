@@ -26,13 +26,14 @@
 		"play-sound": "^1.1.1"
 	},
 	"devDependencies": {
-		"jest": "^20.0.4"
+		"jest": "^21.0.2"
 	},
 	"jest": {
 		"reporters": [
 			"default",
 			[
-				"<rootDir>/index.js", {
+				"<rootDir>/index.js",
+				{
 					"passSound": "sounds/customPass.wav",
 					"failSound": "sounds/customFail.wav",
 					"passText": "txt/customPass.txt",
