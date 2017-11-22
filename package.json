@@ -1,6 +1,6 @@
 {
 	"name": "jest-reporter",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Tomasz Rembacz <trembacz@squiz.pl>",
 	"description": "Jest Reporter with customisable sounds and messages",
 	"main": "index.js",
